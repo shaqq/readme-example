@@ -44,11 +44,11 @@ Wowwwwwww :pray: :pray: how easy it is to develop on YOUR service!
 
 Just kidding. Don't :poop: on your documentation.
 
-What else do we need to know so that a brand spankin' new developer can start contributing __within 30 minutes__?
+What else do we need to know so that a new developer can start contributing __within 30 minutes__?
 
 ### Extra Links
 
-Is your :poop:-service __that__ original? If it is, delete this section.
+Is your :poop: service __that__ original? If it is, delete this section.
 
 If not (likely), list all of the links to major gems or API's being used, in the form of:
 
