@@ -18,7 +18,7 @@ In this section, answer the questions, "What is this service?" or "What does thi
 
 It works like :poop:
 
-Tell us about the __mechanics__ or__logic__ driving the service. Diagrams and pictures are :money_with_wings:
+Tell us about the __mechanics__ or __logic__ driving the service. Diagrams and pictures are :money_with_wings:
 
 ### Endpoints
 
